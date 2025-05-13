@@ -33,8 +33,6 @@ terraform-aws-webserver/
 │ ├── main.tf
 │ └── variables.tf
 
-
-
 ---
 
 ## 🔧 Prerequisites
